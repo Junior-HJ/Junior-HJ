@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! 👋 I'm Segundo</h1>
+<h1 align="center">Hi there! 👋 I'm Segundo Hilario</h1>
 <h3 align="center">A passionate web developer from Peru 🇵🇪</h3>
 
 #### About Me
